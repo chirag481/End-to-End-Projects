@@ -1,8 +1,10 @@
-# End-to-End-Projects
+# End-to-End-Projects(PowerBI,Mysql,Powerpoint Presentation)
 # Providing Insights to Food and Beverage Company CodeX 
 – Conducted an end-to-end data analysis project for a food and beverage company, analyzing a dataset of 10,000
 records.
-– Utilized MySQL, Power BI, Excel, and presentation skills to process and visualize the data effectively.
+
+– Utilized MySQL, Power BI and Powerpoint presentation skills to process and visualize the data effectively.
+
 – Translated large amounts of data into actionable insights, identifying key trends and patterns that can lead to an
 estimated 10% increase in sales for the company
 
